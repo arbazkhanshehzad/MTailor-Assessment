@@ -29,6 +29,7 @@ This project showcases how to deploy a PyTorch-trained image classification mode
 │   ├── pytorch_model_weights.pth     # Trained weights for PyTorch model
 │   ├── test.py                       # Test ONNX model locally
 │   └── test_server.py                # Sends a request to running API server
+├── requirements.txt 
 ```
 
 ---
